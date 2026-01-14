@@ -6,7 +6,7 @@
 This extension adds additional tasks on top of the [Power Platform Build Tools](https://aka.ms/buildtoolsdoc) from Microsoft to automate common build and deployment tasks related to Power Platform.
 
 ## Feedback & Questions
-Please use the issues tracker in the home repo: <https://github.com/YannickRe/ppbt-extensiontasks/issues>
+Please use the issues tracker in the home repo: <https://github.com/Qubix365/ppbt-extensiontasks/issues>
 
 ## Remarks
 The standard Power Platform Build Tools will clear all auth profiles from the pipeline after each action! Make sure to re-run the Set Connection Variables task from these extensions again after each time you use an action from the standard set of tasks.
